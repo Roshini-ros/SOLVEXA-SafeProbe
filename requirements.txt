@@ -1,9 +1,7 @@
 
-streamlit>=1.38
-pandas>=2.0
+streamlit==1.38.0
+pandas>=2.0,<3.0
 plotly>=5.20
-pytest>=8.0
+scikit-learn==1.6.1
 joblib
-scikit-learn
 numpy
-
