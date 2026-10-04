@@ -1,4 +1,9 @@
+
 streamlit>=1.38
 pandas>=2.0
 plotly>=5.20
 pytest>=8.0
+joblib
+scikit-learn
+numpy
+
